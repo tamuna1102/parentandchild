@@ -1,0 +1,21 @@
+.green{
+	background-color: #22B573;
+	margin: 40px;
+	height: 700px;
+
+}
+p {
+	visibility: hidden;
+}
+.blue{
+	height: 620px;
+	margin: 40px;
+	background-color: #29ABE2;
+
+}
+.box{
+	display: inline-block;
+}
+.yellow-big {
+	background-color: yellow;
+}
